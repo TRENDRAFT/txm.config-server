@@ -1,7 +1,7 @@
 {
-    "เปิดใช้งาน" : true,
-    "คีย์" : "TXM-ADMIN",
-    "โน๊ต" : "กูรักเมียจริงๆเลย",
-    "เวอร์ชั่นปัจจุบัน" : "TRENDRAFT X MOD OB55 V19 - APK",
-    "ข้อความ" : "Telegram : t.me/TRENDRAFT_X_MOD"
+    "เปิดใช้งาน": true,
+    "คีย์": ["TXM-ADMIN", "TXM-VIP", "TXM-TEST"],
+    "โน๊ต": "รอ",
+    "เวอร์ชั่นปัจจุบัน": ["TRENDRAFT X MOD OB55 V19 - APK", "TRENDRAFT X MOD OB55 V19 - LIB"],
+    "ข้อความ": "Telegram : t.me/TRENDRAFT_X_MOD"
 }
